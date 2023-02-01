@@ -64,6 +64,10 @@ echo date("D.d.M.Y")
     ";
     ?>
 
+    <h2>4. Take a screenshot that verifies, you have set up the development environment and include it as an image in ex1.php. </h2>
+
+    <img src="photo.png" alt="photo" width="700px" height="300px">
+
     <?php
     include "layout/footer.php"
       ?>
