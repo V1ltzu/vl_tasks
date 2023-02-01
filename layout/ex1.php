@@ -1,6 +1,6 @@
 <?php
 $title = "Php is interesting.";
-include "layout/header.php"
+include "header.php"
   ?>
 
 
@@ -69,5 +69,5 @@ echo date("D.d.M.Y")
     <img src="photo.png" alt="photo" width="700px" height="300px">
 
     <?php
-    include "layout/footer.php"
+    include "footer.php"
       ?>

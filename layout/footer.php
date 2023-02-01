@@ -1,15 +1,10 @@
-</div>
-  </div>
-  <div class="row">
-<footer style="background-color: rgb(65, 7, 109); color: white;">
-
-  <!-- Copyright -->
-  <div class="footer-copyright text-center py-3">© 2020 Copyright
-  </div>
-  <!-- Copyright -->
-
-</footer></div>
-</div>
+<div class="footer">
+        <div class="contact-info">
+            <div class="info-box">
+<h2>Copyright Ville L.</h2>
+            </div>
+        </div>
+    </div>
 
 <!-- Optional JavaScript -->
       <!-- jQuery first, then Popper.js, then Bootstrap JS -->
