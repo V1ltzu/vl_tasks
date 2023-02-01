@@ -1,6 +1,6 @@
 <?php
 $title = "Php is interesting.";
-include "header.php"
+include "layout/header.php"
   ?>
 
 
@@ -59,5 +59,5 @@ echo date("D.d.M.Y")
     ?>
 
     <?php
-    include "footer.php"
+    include "layout/footer.php"
       ?>
