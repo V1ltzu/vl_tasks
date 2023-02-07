@@ -2,9 +2,14 @@
         <div class="contact-info">
             <div class="info-box">
 <h2>Copyright Ville L.</h2>
+<?php
+echo "Content last changed: ".date("F d Y H:i:s.", filemtime("variable.php"));
+?>
             </div>
         </div>
     </div>
+
+
 
 <!-- Optional JavaScript -->
       <!-- jQuery first, then Popper.js, then Bootstrap JS -->

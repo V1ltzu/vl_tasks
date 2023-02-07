@@ -36,7 +36,7 @@ echo date("D.d.M.Y")
 <h2>3.4
   <?php
   $title1 = "PHP is interesting.";
-  echo "<h1>"  . $title1 . "</h1>" ?>
+  echo "<h1 class='text-primary'>"  . $title1 . "</h1>" ?>
   </h2>
 
     <h2>3.5 $g1=5, $g2=4, $g3=5. These are the grades for 3 students in the course. Use HTML table into echo and include 3
