@@ -1,4 +1,3 @@
-<style>
 .logo-con {
     display: flex;
 }
@@ -73,7 +72,7 @@ body {
     background:#006e6e;
     color: white;
     text-align: left;
-    position: fixed;
+    position: top;
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -153,8 +152,6 @@ button {
     width: fit-content;    
 }
 
-
-
 .container{
     align-items: center;
 }
@@ -163,5 +160,3 @@ button {
     padding-top: 100px;
     text-align: center;
 }
-
-</style>

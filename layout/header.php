@@ -21,7 +21,7 @@
             <div class="header-menu">
                 <a href="ex1.php">Exercise 1</a>
                 <a href="variable.php">Exercise 2</a>
-                <a href="contactus.php">Contacts</a>
+                <a href="controlflow.php">Exercise 3</a>
                 <a href="aboutus.php">About Us</a>
             </div>
         </div>
