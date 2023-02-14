@@ -3,7 +3,7 @@
             <div class="info-box">
 <h2>Copyright Ville L.</h2>
 <?php
-echo "Content last changed: ".date("F d Y H:i:s.", filemtime("variable.php"));
+echo "Content last changed: ".date("F d Y H:i:s.", filemtime("../layout/variable.php"));
 ?>
             </div>
         </div>
