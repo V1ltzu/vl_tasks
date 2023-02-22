@@ -88,9 +88,9 @@ echo date("D.d.M.Y")
     document.getElementById("place2").innerHTML = "This will go to span";
 
     <h2>Changing background-color</h2>
-    <form>
-    <input type="color" name >
-
+    <form action="">
+    <input type="color" name="background" onchange="changeBackgroundColor('barckground, this.value)">
+    </form>
     <?php
     include "footer.php"
       ?>

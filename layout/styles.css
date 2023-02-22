@@ -59,6 +59,11 @@ body {
     text-align: justify;
 }
 
+body.custom {
+    background-color: blue;
+    color: green;
+}
+
 .top-container {
     background-color: #f1f1f1;
     padding: 30px;
